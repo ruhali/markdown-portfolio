@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* I :heart: you
+* This is awesome :smile:
+  * What's up :sparkles:
+  * Congratulations :tada:
